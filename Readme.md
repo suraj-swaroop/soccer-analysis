@@ -12,7 +12,9 @@ scrapy.py -  crawls the data from website sofifa.com
 
 Home_away_adv - gives the performance of 2 teams at home and away and player composition of two teams 
 
-(Run As - spark-submit scrapy.py)
+```
+scrapy crawl spidy
+```
 
 team_attack_defensive - gives the attacking and defensive work rate
 
